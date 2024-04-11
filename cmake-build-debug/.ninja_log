@@ -1,0 +1,15 @@
+# ninja log v5
+9	930	7345101077232045	CMakeFiles/GameLearn.dir/source/main.cpp.obj	69b3555d5e2d603
+930	1043	7345101078347731	GameLearn.exe	bc1574382dbf8b98
+1	114	7345185399026690	build.ninja	3b584c4ae795da8d
+32	884	7345101076777709	CMakeFiles/GameLearn.dir/source/RenderWindow.cpp.obj	6d974c467a08463c
+36	718	7345101075126486	CMakeFiles/GameLearn.dir/source/Entity.cpp.obj	350531899d258601
+15	401	7345193994005369	CMakeFiles/GameLearn.dir/source/Math.cpp.obj	f0e802e818062262
+13	708	7345193997072687	CMakeFiles/GameLearn.dir/source/Entity.cpp.obj	350531899d258601
+10	725	7345193997234657	CMakeFiles/GameLearn.dir/source/RenderWindow.cpp.obj	6d974c467a08463c
+6	777	7345193997764510	CMakeFiles/GameLearn.dir/source/main.cpp.obj	69b3555d5e2d603
+777	1089	7345194000852069	GameLearn.exe	8f8c7cc94eb6cc47
+4	799	7345196671629820	CMakeFiles/GameLearn.dir/source/RenderWindow.cpp.obj	6d974c467a08463c
+800	888	7345196672508751	GameLearn.exe	8f8c7cc94eb6cc47
+5	658	7345196800327470	CMakeFiles/GameLearn.dir/source/RenderWindow.cpp.obj	6d974c467a08463c
+659	738	7345196801077397	GameLearn.exe	8f8c7cc94eb6cc47
